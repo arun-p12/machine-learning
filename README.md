@@ -4,7 +4,8 @@ This is easily one of the most - if not **the most** - popular introductory onli
 
 The course uses [GNU Octave](https://www.gnu.org/software/octave/) as the programming language, since we're largely dealing with numerical computations. While many might consider it as a downer, I was quite happy to get introduced to [MATLAB](https://www.mathworks.com/products/matlab.html) thru it. 
 I then rewrote the whole set of exercises in Python 3, which further helped cement my understanding of the course material.
- 
+![ML-logo](./ml-logo.jpg)
+
  
 # Organization
 Each folder consists of the exercises in Octave, and Python 3.
