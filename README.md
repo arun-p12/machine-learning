@@ -25,3 +25,13 @@ exercise/08/
     python/
 
 ```
+
+# Python Notes
+The Python code will not run out of the box. There are several additional modules that need to be installed (.e.g via sudo pip3 install <pkgname>)
+The additional modules required are:
+- numpy
+- matplotlib
+- pandas
+- scipy
+
+Additionally, certain routine that are commonly used in all exercises, e.g. loading a file, plotting the data, etc, are saved as a common utility, and saved in `tool/kit.py`. 
